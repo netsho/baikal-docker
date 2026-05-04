@@ -1,7 +1,7 @@
 # Fork
 
 This fork allows for rootless use (podman).
-This fork merges the PR [#10](https://github.com/aalmenar/baikal-docker/pull/10).
+This fork merges the upstream PR [#10](https://github.com/aalmenar/baikal-docker/pull/10).
 
 # Baikal
 
