@@ -1,3 +1,8 @@
+# Fork
+
+This fork allows for rootless use (podman).
+This fork merges the PR [#10](https://github.com/aalmenar/baikal-docker/pull/10).
+
 # Baikal
 
 This repository is a fork of [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker/) who has made an amazing job providing this image and work to build it.
